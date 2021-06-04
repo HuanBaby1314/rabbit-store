@@ -1,0 +1,24 @@
+{
+  "name": "rabbit-store",
+  "version": "1.0.0",
+  "description": "immutable store write by handsome&amp;bad rabbit",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuanBaby1314/rabbit-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuanBaby1314/rabbit-store/issues"
+  },
+  "homepage": "https://github.com/HuanBaby1314/rabbit-store#readme",
+  "dependencies": {
+    "immer": "^9.0.2"
+  }
+}
